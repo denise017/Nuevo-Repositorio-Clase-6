@@ -1,0 +1,5 @@
+Conflictos documentados:
+
+El conflicto fue modificar el mismo archivo en dos ramas diferentes (main y conflicto).
+Luego se resolvio unificando el contenido de ambas versiones.
+
