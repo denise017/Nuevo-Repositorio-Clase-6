@@ -1,3 +1,7 @@
 Contenido del archivo Pikachu
 Es un pokemon de tipo electrico :3
+
 cambio realizado en main
+
+cambio para la bracnh conficto
+
