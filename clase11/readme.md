@@ -39,11 +39,3 @@ Cuenta regresiva desde 10 hasta 0 y mensaje final Despegue
 Ejercicio 10
 
 Juego para adivinar un numero aleatorio entre 1 y 10 con hasta 3 intentos
-
-Observaciones
-
-### Ejercicio 10
-La computadora genera un número aleatorio entre 1 y 10 y el usuario tiene hasta 3 intentos para adivinarlo.
-
-## Observaciones
-Los ejercicios se ejecutan desde la terminal utilizando Node.js y la librería `prompt-sync`.
