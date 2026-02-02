@@ -4,10 +4,10 @@ const prompt = require("prompt-sync")();
 let comidas = ["pizza", "hamburguesa", "tacos"];
 
 // verificar si existe sushi
-let tieneSushi = comidas.includes("sushi");
+let existe = comidas.includes("sushi");
 
 // mostrar resultado
-if (tieneSushi) {
+if (existe) {
   console.log("sushi esta en la lista");
 } else {
   console.log("sushi no esta en la lista");
